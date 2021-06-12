@@ -1,6 +1,11 @@
 # palladiumdb
 A cuncurrent key value store, column oriented database and more, written in rust.
 
+<p align="center">
+    <a href="https://github.com/solidstatedb/palladiumdb/actions"><img src="https://github.com/solidstatedb/palladiumdb/workflows/run-tests/badge.svg" alt="Build Status"></a>
+    <a href="https://solidstatedb.github.io/palladiumdb/palladiumdb"><img src="https://github.com/solidstatedb/palladiumdb/workflows/rustdoc/badge.svg" alt="Docs"></a>
+</p>
+
 ## Overview
 
 palladiumdb is a rust port of the [silicondb](https://github.com/solidstatedb/silicondb) project. This has the same goals as silicondb, with the added objective for the author to become familiar with the Rust ecosystem and language.
@@ -25,6 +30,8 @@ As with silicondb, this project does not aim to with existing NoSQL databases or
 - [ ] REST API server for accessing data.
 - [ ] CAP compliant.
 
+## Documentation
+Documentation compiled using rustdoc can be found [here](https://solidstatedb.github.io/palladiumdb/palladiumdb).
 ## 🏗️ Build Instructions
 
 ### Pre-requisites
