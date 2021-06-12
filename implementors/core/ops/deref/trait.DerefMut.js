@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["palladiumdb"] = [{"text":"impl&lt;'a, T&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/deref/trait.DerefMut.html\" title=\"trait core::ops::deref::DerefMut\">DerefMut</a> for <a class=\"enum\" href=\"palladiumdb/collections/map/utils/enum.LockWrapper.html\" title=\"enum palladiumdb::collections::map::utils::LockWrapper\">LockWrapper</a>&lt;'a, T&gt;","synthetic":false,"types":["palladiumdb::collections::map::utils::LockWrapper"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
